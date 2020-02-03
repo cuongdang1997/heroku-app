@@ -59,7 +59,7 @@ typings/
 
 .DS_Store
 
-build
+#build
 
 .sass-cache
 
